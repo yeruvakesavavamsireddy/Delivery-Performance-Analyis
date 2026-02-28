@@ -1,0 +1,23 @@
+
+                LOGISTICS INSIGHTS REPORT
+===========================================================
+Total Consignments:   412
+Total Revenue:        ₹207,289.44
+Estimated Net Profit: ₹87,824.24
+Average Profit Margin: 48.22%
+Average Delivery :  2.96 Days
+------------------------------------------------------------
+
+[PROFITABILITY BY MODE]
+           Shipments  Avg_Margin%  Avg_Days
+Mode                                       
+Air Cargo         98       -14.31      2
+Express           80        52.14      3
+Surface          234        73.06      2
+------------------------------------------------------------
+[TOP 3 HIGHEST VALUE ROUTES]
+Route
+Ranchi to Nagpur    ₹2,018.43
+Delhi to Kochi      ₹1,987.13
+Ranchi to Delhi     ₹1,932.28
+
